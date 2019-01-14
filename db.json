@@ -49,6 +49,26 @@
     "publisher": "Marvel Comics",
     "imageurl": "https://www.simplifiedcoding.net/demos/marvel/thor.jpg",
     "bio": "\r\n\t\tThor's father Odin decides his son needed to be taught humility and consequently places Thor (without memories of godhood) into the body and memories of an existing, partially disabled human medical student, Donald Blake.[52] After becoming a doctor and on vacation in Norway, Blake witnesses the arrival of an alien scouting party. Blake flees from the aliens into a cave. After discovering Thor's hammer Mjolnir (disguised as a walking stick) and striking it against a rock, he transforms into the thunder god.[53] Later, in Thor #159, Blake is revealed to have always been Thor, Odin's enchantment having caused him to forget his history as The Thunder God and believe himself mortal.[54]\r\n\t\t"
+  },
+  {
+    "name": "Captain America II",
+    "realname": "Steve Rogers",
+    "team": "Avengers",
+    "firstappearance": "1941",
+    "createdby": "Joe Simon",
+    "publisher": "Marvel Comics",
+    "imageurl": "https://www.simplifiedcoding.net/demos/marvel/captainamerica.jpg",
+    "bio": "\r\n\t\tSteven Rogers was born in the Lower East Side of Manhattan, New York City, in 1925 to poor Irish immigrants, Sarah and Joseph Rogers.[54] Joseph died when Steve was a child, and Sarah died of pneumonia while Steve was a teen. By early 1940, before America's entry into World War II, Rogers is a tall, scrawny fine arts student specializing in illustration and a comic book writer and artist.\r\n\t\t"
+  },
+  {
+    "name": "Iron Man II",
+    "realname": "Tony Stark",
+    "team": "Avengers",
+    "firstappearance": "1963",
+    "createdby": "Stan Lee",
+    "publisher": "Marvel Comics",
+    "imageurl": "https://www.simplifiedcoding.net/demos/marvel/ironman.jpg",
+    "bio": "\r\n\t\tAnthony Edward Stark, the son of wealthy industrialist and head of Stark Industries, Howard Stark, and Maria Stark. A boy genius, he enters MIT at the age of 15 to study electrical engineering and later receives master's degrees in electrical engineering and physics. After his parents are killed in a car accident, he inherits his father's company.\r\n\t\t"
   }
 ]
 }
